@@ -1,0 +1,6 @@
+{
+  "name": "VK Quantitative Terminal",
+  "description": "Institutional quantitative trading terminal with algorithmic ICT/SMC structure analysis, order flow tape, interactive high-precision candlestick charting, and execution desk.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
